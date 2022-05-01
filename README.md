@@ -1,3 +1,3 @@
 # Module5
 # Creating this branch to finish this Modudle 5 Assignment
-# Just doing the general basics
+# Creating code that will print text to the screen if a specific code is entered
